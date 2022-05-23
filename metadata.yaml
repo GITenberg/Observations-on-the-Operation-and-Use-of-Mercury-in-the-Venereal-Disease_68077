@@ -1,0 +1,26 @@
+_repo: Observations-on-the-Operation-and-Use-of-Mercury-in-the-Venereal-Disease_68077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duncan, Andrew
+    gutenberg_agent_id: '54590'
+    url: http://www.gutenberg.org/2009/agents/54590
+description: ''
+gutenberg_issued: '2022-05-14'
+identifiers:
+  gutenberg: '68077'
+language: en
+pgterms:marc905: 20210728195242duncan
+pgterms:marc906: '1772'
+pgterms:marc907: GB
+production_note: Barry Abrahamsen, and The Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United Kingdom :A. Kincaid and W. Creech,1772.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Observations on the Operation and Use of Mercury in the Venereal Disease
+url: http://www.gutenberg.org/ebooks/68077
