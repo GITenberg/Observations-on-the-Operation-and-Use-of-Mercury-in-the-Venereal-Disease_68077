@@ -1,11 +1,16 @@
 _repo: Observations-on-the-Operation-and-Use-of-Mercury-in-the-Venereal-Disease_68077
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68077-h/images/cover.jpg
 creator:
   author:
     agent_name: Duncan, Andrew
     gutenberg_agent_id: '54590'
     url: http://www.gutenberg.org/2009/agents/54590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68077#Observations-on-the-Operation-and-Use-of-Mercury-in-the-Venereal-Disease
 gutenberg_issued: '2022-05-14'
 identifiers:
   gutenberg: '68077'
